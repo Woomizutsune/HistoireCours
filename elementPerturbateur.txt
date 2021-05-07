@@ -2,9 +2,9 @@ Vous vous asseyez, rapidement imité par vos compagnons, et posez votre sac deva
 NOMCOMP avait déjà donné à NOMANI son NOURRITURE, et vennait de sortir sa carotte. Vous farfouillez dans votre sac à la recherche de votre précieuse nourriture. 
 Votre main heurte quelques fioles et livres, mais aucune trace de votre repas. Mettant votre baton en avant, vous utilisez un sort de lumière faible, suffisant pour éclairer votre sac mais pas assez pour véritablement attirer les habitants de cette forêt.
 Vous commencez à paniquer en cherchant dans tous les recoins de votre sac, toujours sans succès. NOMCOMP vous demande ce qui ne va pas, mais vous ne répondez pas. 
-Ce n'est pas possible... Qui aurait pu voler votre cailloux! 
+Ce n'est pas possible... Qui aurait pu voler votre caillou! 
 Vous l'aviez trouvé il y a quelques jours, dans la grotte dans laquelle vous aviez passé une nuit. Après y avoir gouté, vous l'aviez trouvé délicieux, et aviez décidé d'en prendre plusieurs pour votre voyage. Même sur les plus grands marchés de mages*, il était difficile d'en trouver de si bon goût.
 Vous vous énervez, si bien que vos compagnons s'inquiètent et vous propose leur nourriture. Vous la refusez et vous levez d'un bon, regardant aux alentours.
 
 
-* La nourriture préférée des wizs sont les cailloux, si bien que des marchés en vendant sont souvent organisant, proposant des cailloux venant du monde entier
+* La nourriture préférée des wizs sont les cailloux, si bien que des marchés en vendant sont souvent organisés, proposant des cailloux venant du monde entier
